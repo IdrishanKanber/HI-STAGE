@@ -1,0 +1,11 @@
+Kullandığım Kaynaklar:
+http://www.roborealm.com/tutorial/Obstacle_Avoidance/slide010.php
+https://ieeexplore.ieee.org/abstract/document/8282062/figures#figures
+https://stackoverflow.com/questions/45135950/how-to-fill-an-image-from-bottom-side-until-an-edge-is-detected-using-opencv
+https://mesutpiskin.com/blog/opencv-erosion-asindirma.html
+https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html
+
+Optimum Değerler:
+Top.jpg için Blur değerleri ksize = 101x101, SigmaX = -10
+img.png için blur değerleri ksize = 101x101, SigmaX = -10
+masa.jpeg için blur değerleri ksize = 25x25, SigmaX = 0
